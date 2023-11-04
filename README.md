@@ -9,7 +9,7 @@ Uses [Venom Bot](https://github.com/orkestral/venom) library.
 
 2.  Clone it locally
 ```console
-git clone https://github.com/YOUR_GITHUB_USER_NAME/whatsapp-heroku-bot
+git clone https://github.com/kiongozitv/whatsapp-heroku-bot
 ```
 
 3.  Enter the folder
